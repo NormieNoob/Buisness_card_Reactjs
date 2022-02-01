@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Buisness_card_Reactjs/static/css/main.0a78d08a.css",
+    "main.js": "/Buisness_card_Reactjs/static/js/main.fd8d38e4.js",
+    "index.html": "/Buisness_card_Reactjs/index.html",
+    "main.0a78d08a.css.map": "/Buisness_card_Reactjs/static/css/main.0a78d08a.css.map",
+    "main.fd8d38e4.js.map": "/Buisness_card_Reactjs/static/js/main.fd8d38e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a78d08a.css",
+    "static/js/main.fd8d38e4.js"
+  ]
+}
